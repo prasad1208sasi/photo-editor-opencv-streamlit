@@ -58,7 +58,7 @@ pip install -r requirements.txt
 streamlit run app.py
 4. Open in Browser
 http://localhost:8501
-📸 Demo
+```
 
 🎥 Demo Video:
 https://drive.google.com/file/d/10JBqqndhS6Wo4QmchcyyGtHsnK4w2zdb/view?usp=sharing
